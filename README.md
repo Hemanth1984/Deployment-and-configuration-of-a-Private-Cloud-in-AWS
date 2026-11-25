@@ -85,6 +85,6 @@ demands.
 
 <img width="1587" height="842" alt="Screenshot 2026-11-25 214224" src="https://github.com/user-attachments/assets/9b9fd336-bf0d-4ef2-ba64-cb8d27979eb1" />
 
-Result:
+# Result:
 Thus, a  private cloud on AWS involves using VPCs has been created for  a dedicated, isolated network where we can manage our resources and control access according to our requirements.
  
